@@ -1,3 +1,5 @@
 # Sweet Dreams Bakery 
 Se nos pide hacer la maquetación para la página de una pastelería, la cual de mostrar al usuario los distintos sabores, rellenos y decoraciones de los pasteles que se manejan, así como su precio, el usuario podrá realizar distintas combinaciones según desee. Se pide además que el pedido se realice en un formulario que incluya los datos del cliente. Por otra parte, se maquetó la página del administrador, en esta se muestran los sabores restantes, y los datos de los pedidos en una tabla.
 Index.html es el código de la página del usuario, un poco cutre a decir verdad, al igual que admin_page (el cuál es lógico deducir), se irá actualizando el contenido conforme aprenda mas elementos de diseño web, como CSS.
+La página del usuario está cargada con GitHubPages, el enlace siguiente te llevará a ella: https://edpy0129.github.io/PracticaHTML_Pasteleria/
+La página del administrador aún no está cargada debido a que aún no tengo los conocimientos suficientes para dejarlo en una sola página, se subirá en cuanto pueda.
