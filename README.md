@@ -1,1 +1,2 @@
-# page
+# Sweet Dreams Bakery 
+Se nos pide hacer la maquetación para la página de una pastelería, la cual de mostrar al usuario los distintos sabores, rellenos y decoraciones de los pasteles que se manejan, así como su precio, el usuario podrá realizar distintas combinaciones según desee Se pide además que el pedido se realice en un formulario, que incluya los datos del cliente. Por otra parte, se maquetó la página del administrador, en esta se muestran los sabores restantes, y los datos del los pedidos en una tabla.
